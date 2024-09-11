@@ -22,7 +22,7 @@ This project implements a simple linear regression model to predict stock prices
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/sp500-stock-prediction.git
+   git clone https://github.com/ajay-cs-tech/s-p500-stock-prediction.git
    cd sp500-stock-prediction
    ```
 
@@ -36,7 +36,7 @@ This project implements a simple linear regression model to predict stock prices
 Run the main script:
 
 ```
-python stock_prediction.py
+python stock.py
 ```
 
 Follow the prompts to select a stock symbol from the S&P 500 list. The script will then fetch the data, train the model, and display the results.
